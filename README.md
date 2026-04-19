@@ -53,3 +53,23 @@ Tato LAN síť byla vytvořena v Cisco Packet Traceru a obsahuje:
 
 ```html
 <h1>Ondřej Gola</h1>
+```
+## Výpočet X
+
+Příjmení: **GOLA**
+
+- G = 7  
+- O = 15  
+- L = 12  
+- A = 1  
+
+Součet:
+
+7 + 15 + 12 + 1 = 35  
+
+Výpočet modulo 256:
+
+35 mod 256 = 35  
+
+**Výsledná hodnota X = 35**
+
